@@ -1,13 +1,11 @@
 {
-  "packages":
-  [
+  "packages": [
     {
       "name": "rebelputter",
       "maintainer": "Rebel Putter",
       "websiteURL": "https://www.rebelputter.com",
-      "email" : "padawan@rebelputter.com",
-      "platforms":
-      [
+      "email": "padawan@rebelputter.com",
+      "platforms": [
         {
           "name": "Rebel Putter X-1",
           "architecture": "samd",
@@ -22,8 +20,7 @@
               "name": "Rebel Putter X-1"
             }
           ],
-          "toolsDependencies":
-          [
+          "toolsDependencies": [
             {
               "packager": "arduino",
               "name": "arm-none-eabi-gcc",
@@ -52,9 +49,7 @@
           ]
         }
       ],
-      "tools":
-      [
-      ]
+      "tools": []
     }
   ]
 }

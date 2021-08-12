@@ -13,8 +13,7 @@
           "architecture": "samd",
           "version": "0.0.1",
           "category": "Contributed",
-          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.1.zip",
-          "url": "https://github.com/erikwelsh/RebelPutter/code/RebelPutter_X-1-0.0.1.zip"
+          "url": "https://github.com/rvru/Test-for-Rebel-Putter/blob/main/RebelPutter_X-1-0.0.1.zip",
           "archiveFileName": "RebelPutter_X-1-0.0.1.zip",
           "checksum": "SHA-256:00e07d30712484568a1add769b50c87e7358cd24a8b8d8b293fadd6b4120ba9c",
           "size": "27855220",

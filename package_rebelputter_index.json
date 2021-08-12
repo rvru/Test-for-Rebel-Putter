@@ -1,0 +1,61 @@
+{
+  "packages":
+  [
+    {
+      "name": "rebelputter",
+      "maintainer": "Rebel Putter",
+      "websiteURL": "https://rebelputter.com",
+      "email" : "padawan@rebelputter.com",
+      "platforms":
+      [
+        {
+          "name": "Rebel Putter X-1",
+          "architecture": "samd",
+          "version": "0.0.1",
+          "category": "Contributed",
+          "url": "https://github.com/robotics-masters/mm1-hat-arduino/raw/master/custom_board/RoboHat-0.0.1.zip",
+          "url": "https://github.com/erikwelsh/RebelPutter/code/RebelPutter_X-1-0.0.1.zip"
+          "archiveFileName": "RebelPutter_X-1-0.0.1.zip",
+          "checksum": "SHA-256:00e07d30712484568a1add769b50c87e7358cd24a8b8d8b293fadd6b4120ba9c",
+          "size": "27855220",
+          "boards": [
+            {
+              "name": "Rebel Putter X-1"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino9"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
